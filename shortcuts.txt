@@ -1,0 +1,2 @@
+Ctrl + Fn + F2 = Select all instances of this entry and edit them all simultaneously
+Ctrl + / = Comment out every selected line
